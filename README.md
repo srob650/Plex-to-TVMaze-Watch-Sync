@@ -4,6 +4,11 @@ This script is to be used in conjunction with [PlexPy](https://github.com/JonnyW
 
 Please note that PlexPy currently only supports custom notifications when actually watching a TV show, so **this script will not run when manually marking a show as watched with Plex.**
 
+**Requires:** `pytvmaze`, `fuzzywuzzy`
+
+- `pip install --upgrade pytvmaze`
+- `pip install --upgrade fuzzywuzzy`
+
 ## Instructions
 1. Download the `mark_watched_tvmaze.py` script from this repo into the folder of your choosing
 - Ensure PlexPy is running
