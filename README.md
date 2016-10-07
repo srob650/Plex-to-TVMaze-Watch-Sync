@@ -24,3 +24,5 @@ Please note that PlexPy currently only supports custom notifications when actual
 - Enter the path location where you put the `mark_watched_tvmaze.py` script in the **Script Folder** field
 - Scroll down to **Watched**, click the dropdown menu and select `mark_watched_tvmaze.py`
 - Click **Save**
+
+You can test this out by scrolling to the near-end of an episode on Plex and letting it play out.  The exact amount of time left you need to watch depends on your **Watched Percent** setting in PlexPy and the length of the show, but I find that watching the last 2 minutes with **Watched Percent** at 95 works for both 20 and 40 minute episodes.  Once you've done this go to the corresponding episode on TVMaze and see if it has become "Watched".  Enjoy!
